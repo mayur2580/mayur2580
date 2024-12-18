@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayur Nikam
 - 👀 I’m interested in Data's Field
 - 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on Data
+- 💞️ I’m looking to collaborate on Data Science Field
 
 
 <!---
