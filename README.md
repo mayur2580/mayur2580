@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayur 
-- 👀 COnsultant - Data Scientist at Aligned Automation
+- 👀 Consultant - Data Scientist at Aligned Automation
 - 🌱 Building AI, ML, DL, Gen AI, Agentic AI
 - 💞️ Exploring Data Science & AI
 
